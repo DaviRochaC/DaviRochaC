@@ -20,6 +20,6 @@
   <a href="https://www.linkedin.com/in/davi-rocha-7402b3216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  de
-  ![Snake animation](https://github.com/DavirochaC/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DaviRochaC/DaviRochaC/blob/output/github-contribution-grid-snake.svg)
  
 </div>
